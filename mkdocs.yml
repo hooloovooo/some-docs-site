@@ -1,8 +1,0 @@
-site_name: "some-docs-site-huh"
-site_description: "a docs site"
-
-nav:
-  - Introduction: index.md
-
-plugins:
-  - techdocs-core
