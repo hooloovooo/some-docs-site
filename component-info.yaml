@@ -5,7 +5,7 @@ metadata:
   description: "a docs site"
   annotations:
     github.com/project-slug: "hooloovooo/some-docs-site"
-    backstage.io/techdocs-ref: github:https://github.com/hooloovooo/some-docs-site
+    backstage.io/rocdocs-ref: github:https://github.com/hooloovooo/some-docs-site/blob/docs/rocdocs.yaml
 spec:
   type: documentation
   lifecycle: experimental
