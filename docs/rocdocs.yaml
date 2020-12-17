@@ -1,1 +1,5 @@
-
+nav:
+  index: index.md
+  subpage:
+    index: sub-page/index.md
+    about: sub-page/about.md
