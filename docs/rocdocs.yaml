@@ -1,8 +1,8 @@
 nav:
   - name: RocDocs Demo
-    content: index.md
+    link: index.md
   - name: Demo Sub Page
-    content: sub-page/index.md
+    link: sub-page/index.md
     items:
       - name: About
-        content: sub-page/about.md
+        link: sub-page/about.md
